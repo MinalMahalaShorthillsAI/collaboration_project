@@ -1,3 +1,4 @@
 # script.py
 def greet():
-  return "Hi there from Person A"
+  return "Hello from Person A and Person B"
+
